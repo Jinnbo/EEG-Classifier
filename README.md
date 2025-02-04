@@ -1,5 +1,5 @@
 # EEG Scrolling Direction Classification with Muse2 Brain Sensing Headband 
-This project focuses on collecting, cleaning, feature extracting, and classifying EEG data from the Muse2 Brain Sensing Headband. The goal is to classify the direction of scrolling (up or down) based on brain activity using machine learning models like Random Forest, 
+This project focuses on collecting, cleaning, feature extracting, and classifying EEG data from the Muse2 Brain Sensing Headband. The goal is to classify the direction of scrolling (up or down) based on brain activity using machine learning models like Random Forest, Support Vector Machine, k-nearest neighbor, and voting ensemble. 
 
 
 ## Video/demo/GIF
@@ -87,7 +87,7 @@ To run this project, set up your development environment by following the steps 
 ### Using `pip`:
 1. **Clone the Repository**:
     ```bash
-    git clone git@github.com:sfu-cmpt340/2024_3_project_15.git
+    git clone https://github.com/Jinnbo/EEG-Classifier.git
     ```
 2. **Create a virtual environment**:
     ```bash
